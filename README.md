@@ -1,2 +1,4 @@
-# Global-Electronics-Sales-
+Bu layihədə "Global Electronics Retailer" şirkətinin satış və mənfəət göstəricilərini təhlil edən interaktiv Power BI hesabatı hazırlamışam. Əsas məqsəd xam məlumatları vizuallaşdıraraq biznes qərarlarının qəbulunu sürətləndirməkdir.
+Hesabatda 15-dən çox kompleks DAX ölçüsü tətbiq etmişəm. Buraya illik artım (YoY Growth %), mənfəət marjası (Profit Margin %) və keçən ilin eyni dövrü ilə müqayisəli satış analizləri daxildir. "Time Intelligence" funksiyalarından istifadə edərək aylıq satış trendləri və keçən ilin performans fərqləri vizuallaşdırmışam.
+Coğrafi paylanma "Map" vizualı ilə, ən çox satan məhsullar isə "Top 10" filtri ilə göstərilib. Hesabatın bütün elementlərini (Slicers, Cards, Matrix) bir-biri ilə sinxron hərəkət etdirərək dinamik filtrasiya imkanı yaratmışam. Bu layihə vasitəsilə həm texniki DAX, həm də data modelləşdirmə və vizuallaşdırma bacarıqlarımı nümayiş etdirməyə çalışmışam.
 <img width="1416" height="800" alt="image" src="https://github.com/user-attachments/assets/61aef3a4-3c67-40b9-be80-76626288d163" />
